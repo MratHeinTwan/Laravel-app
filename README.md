@@ -8,7 +8,7 @@ Laravel app deploy on AWS
 2. Launch an EC2 Instance
     ![image alt](https://github.com/MratHeinTwan/Laravel-app/blob/20571e7b0899e1aa91e317f9087255d149fd8cff/screenshots/pic-03.png)
 
-3.Get Elastic IP and associate with EC2 instance
+3. Get Elastic IP and associate with EC2 instance
     ![image alt](https://github.com/MratHeinTwan/Laravel-app/blob/20571e7b0899e1aa91e317f9087255d149fd8cff/screenshots/pic-04.png)
 
 4. Create Security Group for RDS
