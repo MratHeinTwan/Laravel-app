@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Laravel-app
 Laravel app deploy on AWS
 =======
 
@@ -24,4 +22,4 @@ Laravel app deploy on AWS
 
 6. Test URL for Laravel App
 
-    [Visit LaravelApp](http://3.0.43.86/)
+   [Visit LaravelApp](http://3.0.43.86/)
