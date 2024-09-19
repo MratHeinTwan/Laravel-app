@@ -1,7 +1,8 @@
 Laravel app deploy on AWS
 =======
-###AWS architecture diagram
-    ![image alt](https://github.com/MratHeinTwan/Laravel-app/blob/d371e90100a52042e14308602212632672005425/screenshots/aws-architecture-diagram.png)
+### AWS architecture diagram
+
+![image alt](https://github.com/MratHeinTwan/Laravel-app/blob/d371e90100a52042e14308602212632672005425/screenshots/aws-architecture-diagram.png)
 
 
 1. Create Security Group for EC2
